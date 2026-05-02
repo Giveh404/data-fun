@@ -1,0 +1,6 @@
+id,name,email,status,created_at
+1,Alice Smith,alice@example.com,active,2024-01-01
+2,Bob Jones,BOB@EXAMPLE.COM,inactive,2024-02-15
+3,Carol White,carol@example.com,active,2024-03-10
+4,Dan Brown,,active,2024-03-20
+5,Eve Black,eve@example.com,cancelled,2024-04-01
